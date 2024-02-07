@@ -1,0 +1,11 @@
+#include <iostream>
+#include <fstream>
+#include <iterator>
+#include <set> // para set y multiset
+using namespace std;
+
+main(){
+    int n;
+    set<int> arbol;
+    set<int>::iterator res;
+}
